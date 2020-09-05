@@ -1,0 +1,74 @@
+1.0
+2.0
+
+From: Chennai Beach
+To: Guindy
+9 Stops
+Distance: 50.0
+Rs 15.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.960155
+
+Return Ticket
+From: Chennai Beach	To: Meenambakkam	From: Chennai Beach
+12 Stops
+Distance: 65.0
+Rs 35.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.973832
+
+From: Tambaram
+To: Meenambakkam
+5 Stops
+Distance: 30.0
+Rs 10.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.973997
+
+From: Chennai Beach
+To: Chromepet
+15 Stops
+Distance: 80.0
+Rs 20.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.974172
+
+From: Chennai Beach
+To: Tambaram
+17 Stops
+Distance: 90.0
+Rs 20.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.974330
+
+Return Ticket
+From: Chennai Beach	To: Tambaram	From: Chennai Beach
+17 Stops
+Distance: 90.0
+Rs 35.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.974487
+
+From: Tambaram
+To: Chennai Beach
+17 Stops
+Distance: 90.0
+Rs 20.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.974684
+
+From: Tambaram
+To: Chennai Beach
+17 Stops
+Distance: 90.0
+Rs 0.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.974852
+
+From: Tambaram
+To: Chennai Beach
+17 Stops
+Distance: 90.0
+Rs 15.0
+Purchase Date: 2020-09-05
+Purchase Time: 18:00:07.975041
