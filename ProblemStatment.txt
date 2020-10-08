@@ -1,0 +1,50 @@
+Chennai suburban railway has 18 stations between Chennai & Tambaram (Ref:Appendix for station names).
+Passengers can request for a ticket between any 2 stations, in both directions. 
+The base price is ₹10 for 5 stations travelled & further upto every 5 stations it is ₹5 extra. 
+For someone traveling the complete stretch (beach to tambaram or viceversa) it is a flat price of ₹20.
+Write a program to print the ‘over the station counter’ ticket. Tickets printed
+
+Input - Passenger is requesting for a ticket between Guindy & Chennai Fort (8
+stations).
+
+Output-
+Purchase Date & Time
+Guindy
+Chennai Fort
+8 Stops
+₹15
+
+Input - Passenger is requesting for a ticket between Kodambakkam &amp; Guindy (3
+stations).
+Output - 
+Purchase Date & Time
+Kodambakkam
+Guindy
+3 Stops
+₹10
+
+Problem Extension
+1. Passengers can request return tickets. The cost of return ticket is 1.75 times the one-way cost. The ticket should mention it’s a ‘Return Ticket’ & print ‘From, To, From’ in it.
+2. There is no fare for passengers under 3 years. Passengers under 10 years are charged only 0.75 times the actual cost.
+3. Distance between each station will be provided. The ticket should also print the distance.
+
+Appendix
+
+1. Chennai Beach
+2. Chennai Fort
+3. Chennai Park
+4. Chennai Egmore
+5. Chetpet
+6. Nungambakkam
+7. Kodambakkam
+8. Mambalam
+9. Saidapet
+10. Guindy
+11. St. Thomas Mount
+12. Pazhavanthangal
+13. Meenambakkam
+14. Trisulam
+15. Pallavaram
+16. Chromepet
+17. Tambaram Sanatorium
+18. Tambaram
